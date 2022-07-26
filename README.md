@@ -1,4 +1,8 @@
 
+<h1>
+woozy 
+<img src="https://raw.githubusercontent.com/woozy404/woozy404/main/wave.gif" width="55px"/>
+</h1>
  
 ### :hammer_and_wrench: Languages
 
