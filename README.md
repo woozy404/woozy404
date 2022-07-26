@@ -1,7 +1,5 @@
 
-
-<h2 align="center">woozy<h2/>
-
+ 
 ### :hammer_and_wrench: Languages
 
 <div>
@@ -17,8 +15,4 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 </div>
 
----
 
-<div align="center">
-  <img src="https://64.media.tumblr.com/ed242026e49055a612aa7c1a7ed1699b/tumblr_oiogz0ABOs1uk29geo1_1280.gif" width="300"/>
-</div>
